@@ -1,5 +1,5 @@
 /**
- * var_dump-js v2.0.1 - A JavaScript kit to output var in page.
+ * var_dump_js v2.0.1 - A JavaScript kit to output var in page.
  *
  * https://github.com/purplestone/var_dump_js
  *
